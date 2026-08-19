@@ -3,7 +3,6 @@ package br.edu.ifsp.scl.sc3047822.trucoscoreboard
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 import br.edu.ifsp.scl.sc3047822.trucoscoreboard.databinding.ActivityMainBinding
-import kotlin.getValue
 
 enum class ScoreAction { PLUS_ONE, TRUCO }
 
