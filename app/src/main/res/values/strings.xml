@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">TrucoScoreBoard</string>
+    <string name="teamA">Equipe A</string>
+    <string name="teamB">Equipe B</string>
+    <string name="initialValue">0</string>
+    <string name="plusOne">+ 1</string>
+    <string name="truco">TRUCO</string>
+    <string name="winner">CAMPEÃ</string>
+    <string name="reset">Reiniciar</string>
 </resources>
